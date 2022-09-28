@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- ☁️ I’m interested in DevOps, Cloud Engineering, and Infrastructure as Code.
+- 🤓 I’m currently learning Boto3 Python SDK for AWS, Docker, Terraform, and Kubernetes.
+- 🏅 I’m currently working on creating a personal VPC and earning my AWS CSA certification.
+- 🏗️ My background is in architecture - for buildings!  I have 9+ YoE with a focus on Design Technology and Building Information Modeling.
+- 🏙️ Outside of work I love to study foreign languages, explore cities, and research transit networks.
+- 📨 Please reach out via LinkedIn! [![Linkedin Badge](https://img.shields.io/badge/-WilliamLewis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/william-lewis-ra-95ab3888)
+
+
+
 <!--
 **williamlewis/williamlewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
