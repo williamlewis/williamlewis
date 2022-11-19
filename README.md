@@ -27,7 +27,7 @@ Learning / Basic:
 <img src="https://img.shields.io/badge/-KUBERNETES-326CE5?logo=Kubernetes&logoColor=white" alt="Kubernetes Badge" />
 <img src="https://img.shields.io/badge/-TERRAFORM-7B42BC?logo=Terraform&logoColor=white" alt="Terraform Badge" />
 <img src="https://img.shields.io/badge/-LINUX-FCC624?logo=Linux&logoColor=black" alt="Linux Badge" />
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white" alt="PostgreSQL Badge" />
+<img src="https://img.shields.io/badge/-POSTGRESQL-4169E1?logo=PostgreSQL&logoColor=white" alt="PostgreSQL Badge" />
 <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?logo=JavaScript&logoColor=black" alt="JavaScript Badge" />
 <img src="https://img.shields.io/badge/-RUBY-CC342D?logo=Ruby&logoColor=white" alt="Ruby Badge" />
 <img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white" alt="HTML5 Badge" />
