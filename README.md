@@ -33,9 +33,3 @@ Learning / Basic:
 <img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white" alt="HTML5 Badge" />
 <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white" alt="CSS3 Badge" />
 <img src="https://img.shields.io/badge/-BOOTSTRAP-7952B3?logo=Bootstrap&logoColor=white" alt="Bootstrap Badge" />
-
-</br>
-
-### My Languages
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=williamlewis&show_icons=true&locale=en&layout=compact" alt="williamlewis" />
