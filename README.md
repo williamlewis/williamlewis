@@ -2,7 +2,7 @@
 
 - ☁️ I’m interested in DevOps, Cloud Engineering, and Infrastructure as Code.
 - 🤓 I’m currently learning Docker, Terraform, and Kubernetes.
-- 🛠️ I’m working on AWS automation scripts using Python Boto3 SDK.
+- 🛠️ I’m working on a personal website using the [**Cloud Resume Challenge**](https://cloudresumechallenge.dev/).
 - 🏗️ I'm an architect - of buildings!  I have 9+ YoE in Design Technology and Building Information Modeling.
 - 🏙️ Outside of work I love cities, foreign languages, keyboards, and espresso.
 - 📨 Please reach out via LinkedIn! [![Linkedin Badge](https://img.shields.io/badge/-WilliamLewis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/william-a-lewis)
