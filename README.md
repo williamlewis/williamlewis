@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - ☁️ I’m interested in DevOps, Cloud Engineering, IaC, and CI/CD.
-- 🤓 I’m currently learning Docker and Kubernetes.
 - 🛠️ I’m working on the [**AWS Cloud Project Bootcamp**](https://docs.google.com/document/d/1VEs2i_tm1FxUatu1ZfUZH8EEVlhN9XWpVDvqg7GYeKM/edit#) led by [**Andrew Brown**](https://twitter.com/andrewbrown).
 - 🏗️ I'm originally an architect - of buildings!  I have 9+ YoE in Design Technology and Building Information Modeling.
 - 🏙️ Outside of work I love cities, foreign languages, keyboards, and espresso.
@@ -12,7 +11,6 @@
 
 ### My Toolbox 🧰
 
-Strong:  
 <img src="https://img.shields.io/badge/-PYTHON-3776AB?logo=Python&logoColor=white" alt="Python Badge" />
 <img src="https://img.shields.io/badge/-BOTO3%20SDK-232F3E?logo=Amazon-AWS&logoColor=white" alt="Boto3 SDK Badge" />
 <img src="https://img.shields.io/badge/-AWS-232F3E?logo=Amazon-AWS&logoColor=white" alt="AWS Badge" />
@@ -24,7 +22,6 @@ Strong:
 <img src="https://img.shields.io/badge/-VS%20CODE-007ACC?logo=Visual-Studio-Code&logoColor=white" alt="Visual Studio Code Badge" />
 
 
-Learning / Basic:  
 <img src="https://img.shields.io/badge/-DOCKER-2496ED?logo=Docker&logoColor=white" alt="Docker Badge" />
 <img src="https://img.shields.io/badge/-KUBERNETES-326CE5?logo=Kubernetes&logoColor=white" alt="Kubernetes Badge" />
 <img src="https://img.shields.io/badge/-LINUX-FCC624?logo=Linux&logoColor=black" alt="Linux Badge" />
