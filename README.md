@@ -9,9 +9,7 @@
 
 </br>
 
-### My Toolbox 🧰
-
-</br>
+My Toolbox 🧰
 
 <img src="https://img.shields.io/badge/-PYTHON-3776AB?logo=Python&logoColor=white" alt="Python Badge" />
 <img src="https://img.shields.io/badge/-BOTO3%20SDK-232F3E?logo=Amazon-AWS&logoColor=white" alt="Boto3 SDK Badge" />
@@ -23,7 +21,6 @@
 <img src="https://img.shields.io/badge/-POWERSHELL-5391FE?logo=PowerShell&logoColor=white" alt="PowerShell Badge" />
 <img src="https://img.shields.io/badge/-VS%20CODE-007ACC?logo=Visual-Studio-Code&logoColor=white" alt="Visual Studio Code Badge" />
 
-</br>
 
 <img src="https://img.shields.io/badge/-DOCKER-2496ED?logo=Docker&logoColor=white" alt="Docker Badge" />
 <img src="https://img.shields.io/badge/-KUBERNETES-326CE5?logo=Kubernetes&logoColor=white" alt="Kubernetes Badge" />
