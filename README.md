@@ -10,7 +10,6 @@
 </br>
 
 My Toolbox 🧰
-
 <img src="https://img.shields.io/badge/-PYTHON-3776AB?logo=Python&logoColor=white" alt="Python Badge" />
 <img src="https://img.shields.io/badge/-BOTO3%20SDK-232F3E?logo=Amazon-AWS&logoColor=white" alt="Boto3 SDK Badge" />
 <img src="https://img.shields.io/badge/-AWS-232F3E?logo=Amazon-AWS&logoColor=white" alt="AWS Badge" />
