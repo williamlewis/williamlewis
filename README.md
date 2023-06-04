@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ☁️ I’m interested in DevOps, Cloud Engineering, IaC, and CI/CD.
-- 🛠️ I’m working on the [**AWS Cloud Project Bootcamp**](https://docs.google.com/document/d/1VEs2i_tm1FxUatu1ZfUZH8EEVlhN9XWpVDvqg7GYeKM/edit#) led by [**Andrew Brown**](https://twitter.com/andrewbrown).
+- ☸️ I’m currently learning Kubernetes for container orchestration.
 - 🏗️ I'm originally an architect - of buildings!  I have 9+ YoE in Design Technology and Building Information Modeling.
 - 🏙️ Outside of work I love cities, foreign languages, keyboards, and espresso.
 - 📨 Please reach out via LinkedIn! [![Linkedin Badge](https://img.shields.io/badge/-WilliamLewis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/william-a-lewis)
